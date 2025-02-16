@@ -1,0 +1,594 @@
+{
+    "season": "2024/25",
+    "name_of_shop": "One&Only Ski Shop",
+    "list_of_branches": [
+        {
+            "ID": 4346,
+            "Location": "Zurich",
+            "Country": "Switzerland",
+            "Name_of_Location_Manager": "Candace Perkins",
+            "Launch_Date": "2017-04-03",
+            "Contact_Number": "+41 44 668 18 00"
+        },
+        {
+            "ID": 7859,
+            "Location": "Oslo",
+            "Country": "Norway",
+            "Name_of_Location_Manager": "Christopher Morgan",
+            "Launch_Date": "2016-05-16",
+            "Contact_Number": "+47 22 05 65 34"
+        },
+        {
+            "ID": 2149,
+            "Location": "Innsbruck",
+            "Country": "Austria",
+            "Name_of_Location_Manager": "Robert Maddox",
+            "Launch_Date": "2018-11-21",
+            "Contact_Number": "+43 512 58 14 55"
+        },
+        {
+            "ID": 4950,
+            "Location": "Denver",
+            "Country": "USA",
+            "Name_of_Location_Manager": "Todd Anderson",
+            "Launch_Date": "2015-07-09",
+            "Contact_Number": "+1 720 913 1311"
+        },
+        {
+            "ID": 9342,
+            "Location": "Milan",
+            "Country": "Italy",
+            "Name_of_Location_Manager": "Heidi Navarro",
+            "Launch_Date": "2025-01-01",
+            "Contact_Number": "+39 02 667 17 451"
+        }
+    ],
+    "list_of_products": [
+        {
+            "ID": 86820,
+            "Category": "Poles",
+            "Brand": "Leki",
+            "Model": "Leki Model 39",
+            "Catalogue_Price": 1168.75
+        },
+        {
+            "ID": 54131,
+            "Category": "Ski Helmets",
+            "Brand": "Smith",
+            "Model": "Smith Model 40",
+            "Catalogue_Price": 1562.11
+        },
+        {
+            "ID": 69735,
+            "Category": "Gloves",
+            "Brand": "Burton",
+            "Model": "Burton Model 44",
+            "Catalogue_Price": 1907.83
+        },
+        {
+            "ID": 93104,
+            "Category": "Ski Boots",
+            "Brand": "Nordica",
+            "Model": "Nordica Model 12",
+            "Catalogue_Price": 1417.48
+        },
+        {
+            "ID": 35658,
+            "Category": "Gloves",
+            "Brand": "Hestra",
+            "Model": "Hestra Model 42",
+            "Catalogue_Price": 570.0
+        },
+        {
+            "ID": 69150,
+            "Category": "Poles",
+            "Brand": "One Way",
+            "Model": "One Way Model 47",
+            "Catalogue_Price": 1427.58
+        },
+        {
+            "ID": 76803,
+            "Category": "Poles",
+            "Brand": "Leki",
+            "Model": "Leki Model 3",
+            "Catalogue_Price": 1789.91
+        },
+        {
+            "ID": 90038,
+            "Category": "Gloves",
+            "Brand": "Hestra",
+            "Model": "Hestra Model 18",
+            "Catalogue_Price": 1923.33
+        },
+        {
+            "ID": 83969,
+            "Category": "Poles",
+            "Brand": "One Way",
+            "Model": "One Way Model 9",
+            "Catalogue_Price": 523.95
+        },
+        {
+            "ID": 33483,
+            "Category": "Ski Boots",
+            "Brand": "Nordica",
+            "Model": "Nordica Model 7",
+            "Catalogue_Price": 1414.99
+        },
+        {
+            "ID": 45920,
+            "Category": "Ski Helmets",
+            "Brand": "POC",
+            "Model": "POC Model 36",
+            "Catalogue_Price": 773.35
+        },
+        {
+            "ID": 76557,
+            "Category": "Poles",
+            "Brand": "One Way",
+            "Model": "One Way Model 6",
+            "Catalogue_Price": 811.91
+        },
+        {
+            "ID": 19692,
+            "Category": "Poles",
+            "Brand": "One Way",
+            "Model": "One Way Model 18",
+            "Catalogue_Price": 1662.7
+        },
+        {
+            "ID": 42606,
+            "Category": "Ski Boots",
+            "Brand": "Fischer",
+            "Model": "Fischer Model 48",
+            "Catalogue_Price": 989.81
+        },
+        {
+            "ID": 99789,
+            "Category": "Poles",
+            "Brand": "Leki",
+            "Model": "Leki Model 40",
+            "Catalogue_Price": 1766.8
+        },
+        {
+            "ID": 92798,
+            "Category": "Gloves",
+            "Brand": "Burton",
+            "Model": "Burton Model 24",
+            "Catalogue_Price": 1035.13
+        },
+        {
+            "ID": 18571,
+            "Category": "Poles",
+            "Brand": "One Way",
+            "Model": "One Way Model 45",
+            "Catalogue_Price": 711.39
+        },
+        {
+            "ID": 58984,
+            "Category": "Gloves",
+            "Brand": "Hestra",
+            "Model": "Hestra Model 7",
+            "Catalogue_Price": 1135.1
+        },
+        {
+            "ID": 12695,
+            "Category": "Skis",
+            "Brand": "Kaestle",
+            "Model": "Kaestle Model 24",
+            "Catalogue_Price": 1056.32
+        },
+        {
+            "ID": 43159,
+            "Category": "Ski Helmets",
+            "Brand": "Giro",
+            "Model": "Giro Model 35",
+            "Catalogue_Price": 1685.26
+        },
+        {
+            "ID": 13561,
+            "Category": "Ski Helmets",
+            "Brand": "Giro",
+            "Model": "Giro Model 39",
+            "Catalogue_Price": 1476.62
+        },
+        {
+            "ID": 18392,
+            "Category": "Poles",
+            "Brand": "Leki",
+            "Model": "Leki Model 8",
+            "Catalogue_Price": 1174.18
+        },
+        {
+            "ID": 45222,
+            "Category": "Skis",
+            "Brand": "Stoeckli",
+            "Model": "Stoeckli Model 24",
+            "Catalogue_Price": 3663.69
+        },
+        {
+            "ID": 20965,
+            "Category": "Poles",
+            "Brand": "One Way",
+            "Model": "One Way Model 27",
+            "Catalogue_Price": 1341.87
+        },
+        {
+            "ID": 18110,
+            "Category": "Ski Helmets",
+            "Brand": "Giro",
+            "Model": "Giro Model 14",
+            "Catalogue_Price": 1773.37
+        },
+        {
+            "ID": 16910,
+            "Category": "Gloves",
+            "Brand": "Burton",
+            "Model": "Burton Model 14",
+            "Catalogue_Price": 1240.69
+        },
+        {
+            "ID": 97054,
+            "Category": "Skis",
+            "Brand": "Salomon",
+            "Model": "Salomon Model 26",
+            "Catalogue_Price": 1101.68
+        },
+        {
+            "ID": 60015,
+            "Category": "Gloves",
+            "Brand": "Outdoor Research",
+            "Model": "Outdoor Research Model 39",
+            "Catalogue_Price": 1213.06
+        },
+        {
+            "ID": 90356,
+            "Category": "Gloves",
+            "Brand": "Burton",
+            "Model": "Burton Model 23",
+            "Catalogue_Price": 1406.63
+        },
+        {
+            "ID": 43827,
+            "Category": "Ski Helmets",
+            "Brand": "Giro",
+            "Model": "Giro Model 13",
+            "Catalogue_Price": 615.47
+        },
+        {
+            "ID": 32299,
+            "Category": "Ski Helmets",
+            "Brand": "Smith",
+            "Model": "Smith Model 2",
+            "Catalogue_Price": 1436.53
+        },
+        {
+            "ID": 12693,
+            "Category": "Skis",
+            "Brand": "Nordica",
+            "Model": "Nordica Model 28",
+            "Catalogue_Price": 4214.69
+        },
+        {
+            "ID": 58925,
+            "Category": "Poles",
+            "Brand": "One Way",
+            "Model": "One Way Model 11",
+            "Catalogue_Price": 986.52
+        },
+        {
+            "ID": 54262,
+            "Category": "Poles",
+            "Brand": "Leki",
+            "Model": "Leki Model 33",
+            "Catalogue_Price": 908.2
+        },
+        {
+            "ID": 16776,
+            "Category": "Ski Helmets",
+            "Brand": "POC",
+            "Model": "POC Model 13",
+            "Catalogue_Price": -98208.9
+        },
+        {
+            "ID": 13748,
+            "Category": "Ski Helmets",
+            "Brand": "Giro",
+            "Model": "Giro Model 33",
+            "Catalogue_Price": 679.8
+        },
+        {
+            "ID": 44766,
+            "Category": "Poles",
+            "Brand": "One Way",
+            "Model": "One Way Model 32",
+            "Catalogue_Price": 1278.19
+        },
+        {
+            "ID": 64384,
+            "Category": "Skis",
+            "Brand": "Kaestle",
+            "Model": "Kaestle Model 49",
+            "Catalogue_Price": 2015.66
+        },
+        {
+            "ID": 75318,
+            "Category": "Poles",
+            "Brand": "One Way",
+            "Model": "One Way Model 2",
+            "Catalogue_Price": 1568.41
+        },
+        {
+            "ID": 36736,
+            "Category": "Gloves",
+            "Brand": "Hestra",
+            "Model": "Hestra Model 2",
+            "Catalogue_Price": 1254.02
+        },
+        {
+            "ID": 65680,
+            "Category": "Gloves",
+            "Brand": "Hestra",
+            "Model": "Hestra Model 19",
+            "Catalogue_Price": 1521.06
+        },
+        {
+            "ID": 36309,
+            "Category": "Gloves",
+            "Brand": "Burton",
+            "Model": "Burton Model 32",
+            "Catalogue_Price": 1389.05
+        },
+        {
+            "ID": 22688,
+            "Category": "Ski Helmets",
+            "Brand": "Smith",
+            "Model": "Smith Model 38",
+            "Catalogue_Price": 1051.67
+        },
+        {
+            "ID": 75733,
+            "Category": "Poles",
+            "Brand": "One Way",
+            "Model": "One Way Model 22",
+            "Catalogue_Price": 1303.66
+        },
+        {
+            "ID": 52107,
+            "Category": "Skis",
+            "Brand": "Atomic",
+            "Model": "Atomic Model 6",
+            "Catalogue_Price": 3783.25
+        },
+        {
+            "ID": 82082,
+            "Category": "Ski Helmets",
+            "Brand": "Smith",
+            "Model": "Smith Model 26",
+            "Catalogue_Price": -98731.86
+        },
+        {
+            "ID": 93763,
+            "Category": "Ski Helmets",
+            "Brand": "Smith",
+            "Model": "Smith Model 41",
+            "Catalogue_Price": 1536.41
+        },
+        {
+            "ID": 11802,
+            "Category": "Ski Boots",
+            "Brand": "Atomic",
+            "Model": "Atomic Model 28",
+            "Catalogue_Price": 1602.82
+        },
+        {
+            "ID": 70713,
+            "Category": "Ski Boots",
+            "Brand": "Salomon",
+            "Model": "Salomon Model 35",
+            "Catalogue_Price": 842.83
+        },
+        {
+            "ID": 26371,
+            "Category": "Ski Boots",
+            "Brand": "Atomic",
+            "Model": "Atomic Model 49",
+            "Catalogue_Price": 862.78
+        },
+        {
+            "ID": 39855,
+            "Category": "Poles",
+            "Brand": "Leki",
+            "Model": "Leki Model 9",
+            "Catalogue_Price": 918.31
+        },
+        {
+            "ID": 14499,
+            "Category": "Ski Helmets",
+            "Brand": "Smith",
+            "Model": "Smith Model 24",
+            "Catalogue_Price": 1106.76
+        },
+        {
+            "ID": 39299,
+            "Category": "Skis",
+            "Brand": "Stoeckli",
+            "Model": "Stoeckli Model 11",
+            "Catalogue_Price": 4742.54
+        },
+        {
+            "ID": 63351,
+            "Category": "Poles",
+            "Brand": "One Way",
+            "Model": "One Way Model 20",
+            "Catalogue_Price": 1371.03
+        },
+        {
+            "ID": 12200,
+            "Category": "Skis",
+            "Brand": "Head",
+            "Model": "Head Model 29",
+            "Catalogue_Price": 2135.68
+        },
+        {
+            "ID": 12869,
+            "Category": "Ski Boots",
+            "Brand": "Fischer",
+            "Model": "Fischer Model 35",
+            "Catalogue_Price": 1477.94
+        },
+        {
+            "ID": 48467,
+            "Category": "Skis",
+            "Brand": "Kaestle",
+            "Model": "Kaestle Model 33",
+            "Catalogue_Price": 2975.57
+        },
+        {
+            "ID": 32399,
+            "Category": "Poles",
+            "Brand": "One Way",
+            "Model": "One Way Model 8",
+            "Catalogue_Price": 1773.84
+        },
+        {
+            "ID": 54064,
+            "Category": "Skis",
+            "Brand": "Stoeckli",
+            "Model": "Stoeckli Model 48",
+            "Catalogue_Price": 1374.7
+        },
+        {
+            "ID": 29830,
+            "Category": "Ski Helmets",
+            "Brand": "POC",
+            "Model": "POC Model 22",
+            "Catalogue_Price": 865.98
+        },
+        {
+            "ID": 86213,
+            "Category": "Gloves",
+            "Brand": "Outdoor Research",
+            "Model": "Outdoor Research Model 8",
+            "Catalogue_Price": 1446.71
+        },
+        {
+            "ID": 64045,
+            "Category": "Ski Boots",
+            "Brand": "Rossignol",
+            "Model": "Rossignol Model 33",
+            "Catalogue_Price": 1365.36
+        },
+        {
+            "ID": 50764,
+            "Category": "Skis",
+            "Brand": "Nordica",
+            "Model": "Nordica Model 48",
+            "Catalogue_Price": 2123.09
+        },
+        {
+            "ID": 83744,
+            "Category": "Ski Helmets",
+            "Brand": "Giro",
+            "Model": "Giro Model 44",
+            "Catalogue_Price": 1910.69
+        },
+        {
+            "ID": 46212,
+            "Category": "Gloves",
+            "Brand": "Burton",
+            "Model": "Burton Model 6",
+            "Catalogue_Price": 1055.24
+        },
+        {
+            "ID": 28711,
+            "Category": "Skis",
+            "Brand": "Nordica",
+            "Model": "Nordica Model 29",
+            "Catalogue_Price": 2712.74
+        },
+        {
+            "ID": 76235,
+            "Category": "Gloves",
+            "Brand": "Outdoor Research",
+            "Model": "Outdoor Research Model 33",
+            "Catalogue_Price": 613.02
+        },
+        {
+            "ID": 16102,
+            "Category": "Gloves",
+            "Brand": "Hestra",
+            "Model": "Hestra Model 33",
+            "Catalogue_Price": 975.38
+        },
+        {
+            "ID": 42745,
+            "Category": "Ski Boots",
+            "Brand": "Atomic",
+            "Model": "Atomic Model 31",
+            "Catalogue_Price": -98233.68
+        },
+        {
+            "ID": 46631,
+            "Category": "Ski Helmets",
+            "Brand": "POC",
+            "Model": "POC Model 32",
+            "Catalogue_Price": 1506.72
+        },
+        {
+            "ID": 20729,
+            "Category": "Ski Boots",
+            "Brand": "Head",
+            "Model": "Head Model 2",
+            "Catalogue_Price": 983.83
+        },
+        {
+            "ID": 88069,
+            "Category": "Skis",
+            "Brand": "Atomic",
+            "Model": "Atomic Model 48",
+            "Catalogue_Price": 3211.28
+        },
+        {
+            "ID": 60993,
+            "Category": "Ski Boots",
+            "Brand": "Fischer",
+            "Model": "Fischer Model 25",
+            "Catalogue_Price": 1417.27
+        },
+        {
+            "ID": 99912,
+            "Category": "Poles",
+            "Brand": "One Way",
+            "Model": "One Way Model 36",
+            "Catalogue_Price": 1697.44
+        },
+        {
+            "ID": 16655,
+            "Category": "Skis",
+            "Brand": "Stoeckli",
+            "Model": "Stoeckli Model 46",
+            "Catalogue_Price": 4183.17
+        },
+        {
+            "ID": 65766,
+            "Category": "Poles",
+            "Brand": "Leki",
+            "Model": "Leki Model 15",
+            "Catalogue_Price": 1063.37
+        },
+        {
+            "ID": 62921,
+            "Category": "Ski Boots",
+            "Brand": "Salomon",
+            "Model": "Salomon Model 22",
+            "Catalogue_Price": 1386.25
+        },
+        {
+            "ID": 80313,
+            "Category": "Skis",
+            "Brand": "Kaestle",
+            "Model": "Kaestle Model 6",
+            "Catalogue_Price": 2213.06
+        }
+    ]
+}
